@@ -1,0 +1,10 @@
+let num1 = 20;
+let num2 = 10;
+let sum = num1 + num2;
+console.log("The sum of " + num1 + " and " + num2 + " is " + sum);
+console.log("The difference of " + num1 + " and " + num2 + " is " + (num1 - num2));
+console.log("The product of " + num1 + " and " + num2 + " is " + (num1 * num2));
+console.log("The quotient of " + num1 + " and " + num2 + " is " + (num1 / num2));
+console.log("The remainder of " + num1 + " and " + num2 + " is " + (num1 % num2));
+console.log("The modulus of " + num1 + " and " + num2 + " is " + (num1 % num2));
+console.log("The exponent of " + num1 + " and " + num2 + " is " + (num1 ** num2));
